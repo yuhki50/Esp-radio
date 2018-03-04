@@ -13,3 +13,6 @@
 [submodule "libraries/Adafruit-GFX-Library"]
 	path = libraries/Adafruit-GFX-Library
 	url = https://github.com/adafruit/Adafruit-GFX-Library.git
+[submodule "libraries/TinyXML"]
+	path = libraries/TinyXML
+	url = https://github.com/adafruit/TinyXML.git
