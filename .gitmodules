@@ -4,3 +4,6 @@
 [submodule "libraries/ESPAsyncWebServer"]
 	path = libraries/ESPAsyncWebServer
 	url = https://github.com/me-no-dev/ESPAsyncWebServer.git
+[submodule "libraries/TFT_ILI9163C"]
+	path = libraries/TFT_ILI9163C
+	url = https://github.com/sumotoy/TFT_ILI9163C.git
