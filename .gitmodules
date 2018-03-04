@@ -7,3 +7,6 @@
 [submodule "libraries/TFT_ILI9163C"]
 	path = libraries/TFT_ILI9163C
 	url = https://github.com/sumotoy/TFT_ILI9163C.git
+[submodule "libraries/async-mqtt-client"]
+	path = libraries/async-mqtt-client
+	url = https://github.com/marvinroger/async-mqtt-client.git
