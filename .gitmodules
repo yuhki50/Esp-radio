@@ -10,3 +10,6 @@
 [submodule "libraries/async-mqtt-client"]
 	path = libraries/async-mqtt-client
 	url = https://github.com/marvinroger/async-mqtt-client.git
+[submodule "libraries/Adafruit-GFX-Library"]
+	path = libraries/Adafruit-GFX-Library
+	url = https://github.com/adafruit/Adafruit-GFX-Library.git
