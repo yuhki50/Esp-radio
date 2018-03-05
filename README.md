@@ -27,5 +27,5 @@ Features:
 - Configuration also possible if no WiFi connection can be established.
 - Can play iHeartRadio stations.
 
-See documentation in pdf-file.
+See documentation in docs directory.
 
